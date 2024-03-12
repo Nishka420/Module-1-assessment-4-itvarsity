@@ -1,0 +1,40 @@
+body{
+    background-image: url{"backgroundfrozen.jpeg"}
+}
+
+.h1{
+    text-align: center;
+    border-color: aqua;
+}
+
+table{
+    
+    font-family: fantasy;
+     border-collapse: collapse;
+    border-width: 6px;
+    border-style: solid;
+    border-color: red;
+    
+    
+}
+th{ 
+  font-weight: 500;
+ background-color: antiquewhite;
+    color: black
+ 
+}
+
+td{
+    
+    font-family: cursive;
+    color: maroon;
+}
+
+.centre {
+    
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
